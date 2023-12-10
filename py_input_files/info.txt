@@ -1,0 +1,3 @@
+**** READ THIS ****
+This is the file where the input data for the packet anomaly detection pipeline will go. 
+Run the ApplicationClassifierPackets and ApplicationFilter files to see results in this folder
