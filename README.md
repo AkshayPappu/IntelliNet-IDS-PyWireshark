@@ -1,5 +1,6 @@
 # IntelliNet-IDS-PyWireshark
-Intelligent Network Intrusion Detection with Wireshark and Python
+Intelligent Network Intrusion Detection with Wireshark and Python. A Hybrid Anomaly Detection 
+Approach for Application Classification and Network Packet Analysis.
 
 ***Usage instructions***
 1. Conduct packet analysis in wireshark and preprocess that data into a csv
